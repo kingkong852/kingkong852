@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kingkong852
-- 👀 I’m interested in coding and cyber
-- 🌱 I’m currently learning at bar-ilan university cyber  
+- 👀 I’m interested in coding cyber and devops 
+- 🌱 I’m currently learning at bar-ilan university devops  
 - 💞️ I’m looking to collaborate on every thing from the world of pc and mac 
 - 📫 How to reach me kong55340@gmail.com
 
